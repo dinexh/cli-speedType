@@ -5,9 +5,10 @@
       "name": "cli-speedtest",
       "devDependencies": {
         "@types/bun": "latest",
+        "@types/node": "^22.15.12",
       },
       "peerDependencies": {
-        "typescript": "^5",
+        "typescript": "^5.8.3",
       },
     },
   },

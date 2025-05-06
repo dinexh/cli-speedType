@@ -1,0 +1,7 @@
+[
+    "function greet(name: string) {\n  console.log(`Hello, ${name}`);\n}",
+    "for (let i = 0; i < 10; i++) {\n  console.log(i);\n}",
+    "const sum = (a: number, b: number): number => a + b;",
+    "try {\n  riskyFunction();\n} catch (e) {\n  console.error(e);\n}"
+  ]
+  
